@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sergiotacchini.falix.gg",
-    "port": 24631,
+    "port": 22235,
     "version": "1.21.11",
     "try-creative": false
   },
